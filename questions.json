@@ -1,0 +1,541 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    
+  
+ 
+  {
+    "heading": "Semantic Fields and Lexical Chains",
+    "questions": [
+      {
+        "questionNo": 1,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "In Passage 1, Dorothy writes that the morning was \"threatening\", the wind was \"furious\", the wind \"seized our breath\" and \"the Lake was rough\". Which label correctly names the semantic field these words build?",
+        "options": [
+          {
+            "text": "Farming"
+          },
+          {
+            "text": "Calm and peace"
+          },
+          {
+            "text": "Wild, stormy weather"
+          },
+          {
+            "text": "Sadness and grief"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 2,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "Vihaan says the words \"tossed and reeled and danced\" and \"laughed\" in Passage 3 make the daffodils seem alive and joyful. Mira says they make the daffodils seem damaged and broken by the wind.<br>Who is correct?",
+        "options": [
+          {
+            "text": "Only Vihaan, because the field of lively movement makes the flowers seem full of life and happiness."
+          },
+          {
+            "text": "Only Mira, because the wind is blowing hard on them."
+          },
+          {
+            "text": "Both, because the flowers are both joyful and broken."
+          },
+          {
+            "text": "Neither, because these words do not form a semantic field."
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 3,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "Across Passages 1 and 4, Dorothy writes \"We first rested\", \"We rested again\" and \"We rested again and again\". Which type of link in a lexical chain is this?",
+        "options": [
+          {
+            "text": "Synonym, because different words share the same meaning"
+          },
+          {
+            "text": "Related word, because one word is formed from another"
+          },
+          {
+            "text": "A competing semantic field, because two fields clash"
+          },
+          {
+            "text": "Repetition, because the same word is used again"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 4,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "In Passage 4, Dorothy writes \"The Bays were stormy\" and later \"we faced the storm\". Which type of link joins \"stormy\" and \"storm\"?",
+        "options": [
+          {
+            "text": "Repetition, because the exact same word is used twice"
+          },
+          {
+            "text": "Related word, because \"stormy\" is formed from \"storm\""
+          },
+          {
+            "text": "Synonym, because they are two unrelated words with the same meaning"
+          },
+          {
+            "text": "Personification, because the storm is given human qualities"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 5,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "Kiara noticed that two semantic fields compete in Passage 3. Which two fields are they?",
+        "options": [
+          {
+            "text": "Food (\"potatoes\") against drink (\"rum\")"
+          },
+          {
+            "text": "Rest and tiredness (\"rested their heads\", \"pillow\", \"weariness\") against lively movement (\"tossed\", \"reeled\", \"danced\")"
+          },
+          {
+            "text": "Wealth against poverty"
+          },
+          {
+            "text": "Fire against ice"
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Imagery in Depth: Vehicle, Tenor and Mixed Metaphors",
+    "questions": [
+      {
+        "questionNo": 6,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "In Passage 3, Dorothy writes that some daffodils \"rested their heads upon these stones as on a pillow\". In the comparison between the stones and a pillow, which answer correctly identifies the tenor and the vehicle?",
+        "options": [
+          {
+            "text": "Tenor: the stones; Vehicle: a pillow"
+          },
+          {
+            "text": "Tenor: a pillow; Vehicle: the stones"
+          },
+          {
+            "text": "Tenor: the daffodils; Vehicle: the wind"
+          },
+          {
+            "text": "Tenor: the lake; Vehicle: a pillow"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 7,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "In Passage 4, Dorothy says they \"heard the waves at different distances and in the middle of the water like the sea\". What is the ground of this comparison?",
+        "options": [
+          {
+            "text": "The lake water tasted salty, like the sea."
+          },
+          {
+            "text": "The lake was full of ships, like the sea."
+          },
+          {
+            "text": "The waves on the lake were as loud and powerful as waves on the sea."
+          },
+          {
+            "text": "The lake was completely calm, like the sea."
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 8,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "Passage 5 ends: \"Deer in Gowbarrow park like skeletons.\" What does this simile suggest about the deer?",
+        "options": [
+          {
+            "text": "They were dead."
+          },
+          {
+            "text": "They were bright white."
+          },
+          {
+            "text": "They were frightening ghosts."
+          },
+          {
+            "text": "They were extremely thin and bony."
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 9,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "In Passage 4, Dorothy calls the belt of daffodils \"that one busy highway\". Which answer correctly explains this image?",
+        "options": [
+          {
+            "text": "A metaphor comparing the belt of daffodils to a busy road, suggesting it is long, crowded and full of movement"
+          },
+          {
+            "text": "A literal description of a real road where the daffodils grew"
+          },
+          {
+            "text": "A simile showing the daffodils were noisy and dangerous"
+          },
+          {
+            "text": "A mixed metaphor, because flowers and roads cannot exist together"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 10,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "Three students wrote about the daffodils that \"seemed as if they verily laughed with the wind\" in Passage 3:<br><i>Tobias:</i> \"Dorothy compares the wind (tenor) to the daffodils (vehicle), which shows the wind is yellow.\"<br><i>Sneha:</i> \"Dorothy describes the daffodils (tenor) as if they were people laughing (vehicle). Like laughing people, they shake and seem full of joy, which makes the scene feel lively and happy.\"<br><i>Gabriel:</i> \"Dorothy uses a mixed metaphor, because flowers cannot laugh, which confuses the reader.\"<br>Which response correctly analyses the image?",
+        "options": [
+          {
+            "text": "Tobias's response"
+          },
+          
+          {
+            "text": "Sneha's response"
+          },
+          {
+            "text": "Gabriel's response"
+          },
+          {
+            "text": "None of the three responses"
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Reading for Information",
+    "questions": [
+      {
+        "questionNo": 11,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "Ayesha skimmed all five passages before looking at the questions. What is the text mainly about?",
+        "options": [
+          {
+            "text": "A boat trip across the lake in calm weather"
+          },
+          {
+            "text": "A day spent at Mrs Clarkson's house"
+          },
+          {
+            "text": "William writing a poem by the fire"
+          },
+          {
+            "text": "A windy walk beside a lake during which the writers found a long belt of daffodils, before sheltering from the rain at an inn"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 12,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "Riddhi scanned the text to find out how much they paid at the inn. What did they pay?",
+        "options": [
+          {
+            "text": "15"
+          },
+          {
+            "text": "Nothing, because the young woman treated them kindly"
+          },
+          {
+            "text": "7/"
+          },
+          {
+            "text": "A glass of warm rum and water"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 13,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "According to Passage 1, where did Dorothy and William set off from?",
+        "options": [
+          {
+            "text": "Eusemere"
+          },
+          {
+            "text": "Water Millock"
+          },
+          {
+            "text": "Gowbarrow park"
+          },
+          {
+            "text": "Luffs"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 14,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "Nora read this question: \"Which collection of drama did William bring out from the Library?\" Which answer is correct?",
+        "options": [
+          {
+            "text": "A volume of Enfield's Speaker"
+          },
+          {
+            "text": "Another miscellany"
+          },
+          {
+            "text": "The Library piled up in a corner of the window"
+          },
+          {
+            "text": "An odd volume of Congreve's plays"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 15,
+        "story": "<b>The Grasmere Journal</b><br>by Dorothy Wordsworth<br><br><b>Passage 1</b><br>Thursday 15th. It was a threatening misty morning—but mild. We set off after dinner from Eusemere. Mrs Clarkson went a short way with us but turned back. The wind was furious, and we thought we must have returned. We first rested in the large Boat-house, then under a furze Bush opposite Mr Clarkson's. Saw the plough going in the field. The wind seized our breath; the Lake was rough. There was a Boat, by itself, floating in the middle of the Bay below Water Millock. We rested again in the Water Millock Lane.<br><br><b>Passage 2</b><br>The hawthorns are black and green, the birches here and there greenish, but there is yet more of purple to be seen on the Twigs. We got over into a field to avoid some cows—people working, a few primroses by the roadside, woodsorrel flower, the anemone, scentless violets, strawberries, and that starry yellow flower which Mrs C. calls pile wort. When we were in the woods beyond Gowbarrow park we saw a few daffodils close to the water side. We fancied that the lake had floated the seeds ashore and that the little colony had so sprung up.<br><br><b>Passage 3</b><br>But as we went along there were more and yet more and at last under the boughs of the trees, we saw that there was a long belt of them along the shore, about the breadth of a country turnpike road. I never saw daffodils so beautiful; they grew among the mossy stones about and about them, some rested their heads upon these stones as on a pillow for weariness and the rest tossed and reeled and danced and seemed as if they verily laughed with the wind that blew upon them over the lake; they looked so gay ever glancing ever changing.<br><br><b>Passage 4</b><br>This wind blew directly over the lake to them. There was here and there a little knot and a few stragglers a few yards higher up, but they were so few as not to disturb the simplicity and unity and life of that one busy highway. We rested again and again. The Bays were stormy, and we heard the waves at different distances and in the middle of the water like the sea. Rain came on—we were wet when we reached Luffs, but we called in. Luckily all was cheerless and gloomy, so we faced the storm—we must have been wet if we had waited—put on dry clothes at Dobson's.<br><br><b>Passage 5</b><br>I was very kindly treated by a young woman; the Landlady looked sour, but it is her way. She gave us a goodish supper. Excellent ham and potatoes. We paid 7/ when we came away. William was sitting by a bright fire when I came downstairs. He soon made his way to the Library piled up in a corner of the window. He brought out a volume of Enfield's Speaker, another miscellany, and an odd volume of Congreve's plays. We had a glass of warm rum and water. We enjoyed ourselves and wished for Mary. It rained and blew when we went to bed. N.B. Deer in Gowbarrow Park like skeletons.",
+        "question": "Imran was asked: \"What did Dorothy and William eat for supper?\" Which answer gives the fact correctly?",
+        "options": [
+          {
+            "text": "A goodish supper"
+          },
+          {
+            "text": "Ham and potatoes"
+          },
+          {
+            "text": "Roast meat and bread"
+          },
+          {
+            "text": "Strawberries and primroses"
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Unseen Poetry Part 1",
+    "questions": [
+      {
+        "questionNo": 16,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "Who is the speaker of the poem?",
+        "options": [
+          {
+            "text": "A cloud floating above the hills"
+          },
+          {
+            "text": "One of the daffodils"
+          },
+          {
+            "text": "Someone who once came upon a field of daffodils while walking alone, and now remembers them"
+          },
+          {
+            "text": "A sailor on the lake"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 17,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "Which description of the speaker's voice is correct?",
+        "options": [
+          {
+            "text": "Observational in stanzas 1–3, then confessional in stanza 4, where the speaker reveals what the memory means to them"
+          },
+          {
+            "text": "Confessional in stanzas 1–3, then observational in stanza 4"
+          },
+          {
+            "text": "Observational throughout, never revealing any feelings"
+          },
+          {
+            "text": "There is no speaker, so there is no voice"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 18,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "Swara was asked where the poem changes direction. At which line does the turn come?",
+        "options": [
+          {
+            "text": "Line 7"
+          },
+          {
+            "text": "Line 19"
+          },
+          {
+            "text": "Line 13"
+          },
+          {
+            "text": "Line 23"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 19,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "Parth was asked what signals the turn. Which answer is correct?",
+        "options": [
+          {
+            "text": "The poem stops rhyming in the last stanza."
+          },
+          {
+            "text": "A new speaker takes over in the last stanza."
+          },
+          {
+            "text": "The last stanza is written as a question."
+          },
+          {
+            "text": "The tense changes from past (\"wandered\", \"saw\") to present (\"lie\", \"flash\"), and the setting moves from the lake to the speaker's couch."
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 20,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "What does the turn reveal about the daffodils?",
+        "options": [
+          {
+            "text": "The speaker regrets ever seeing them."
+          },
+          {
+            "text": "The speaker has completely forgotten them."
+          },
+          {
+            "text": "Their real value came later, because the memory brings the speaker joy whenever he is alone."
+          },
+          {
+            "text": "The daffodils have died, which makes him sad."
+          }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Unseen Poetry Part 2",
+    "questions": [
+      {
+        "questionNo": 21,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "What is the rhyme scheme of each stanza?",
+        "options": [
+          {
+            "text": "AABBCC"
+          },
+          {
+            "text": "ABABCC"
+          },
+          {
+            "text": "ABABAB"
+          },
+          {
+            "text": "ABCABC"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 22,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "Each stanza has six lines and ends with a rhyming couplet. What effect does this regular shape create?",
+        "options": [
+          {
+            "text": "It gives the poem a calm, musical order, and each closing couplet rounds the stanza off neatly."
+          },
+          {
+            "text": "It makes the poem feel chaotic and confused."
+          },
+          {
+            "text": "It shows the poem has no pattern."
+          },
+          {
+            "text": "It creates an angry, violent mood."
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 23,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "Alisha was looking for a caesura: a pause in the middle of a line. In which of these lines is there a caesura?",
+        "options": [
+          {
+            "text": "Line 1"
+          },
+          {
+            "text": "Line 8"
+          },
+          {
+            "text": "Line 22"
+          },
+          {
+            "text": "Line 17"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 24,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "Henry noticed the repeated \"l\" sounds in \"lonely\", \"floats\" and \"hills\" in lines 1–2. Which sound family do these belong to?",
+        "options": [
+          {
+            "text": "Plosives"
+          },
+          {
+            "text": "Sibilants"
+          },
+          {
+            "text": "Liquids"
+          },
+          {
+            "text": "Vowel sounds (assonance)"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 25,
+        "story": "<b>I Wandered Lonely as a Cloud</b><br>by William Wordsworth<br><br>I wandered lonely as a cloud<br>That floats on high o'er vales and hills,<br>When all at once I saw a crowd,<br>A host, of golden daffodils;<br>Beside the lake, beneath the trees,<br>Fluttering and dancing in the breeze.<br><br>Continuous as the stars that shine<br>And twinkle on the milky way,<br>They stretched in never-ending line<br>Along the margin of a bay:<br>Ten thousand saw I at a glance,<br>Tossing their heads in sprightly dance.<br><br>The waves beside them danced; but they<br>Out-did the sparkling waves in glee:<br>A poet could not but be gay,<br>In such a jocund company:<br>I gazed—and gazed—but little thought<br>What wealth the show to me had brought:<br><br>For oft, when on my couch I lie<br>In vacant or in pensive mood,<br>They flash upon that inward eye<br>Which is the bliss of solitude;<br>And then my heart with pleasure fills,<br>And dances with the daffodils.",
+        "question": "Which pair of lines is joined by enjambment, where a sentence runs on with no punctuation at the end of the first line?",
+        "options": [
+          {
+            "text": "Lines 7–8"
+          },
+          {
+            "text": "Lines 3–4"
+          },
+          {
+            "text": "Lines 5–6"
+          },
+          {
+            "text": "Lines 11–12"
+          }
+        ],
+        "answer": 0
+      }
+    ]
+  }
+
+
+
+
+
+
+
+  ]
+}
